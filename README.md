@@ -52,3 +52,9 @@ https://agon-agent1-77053866.vercel.app
 ```
 
 Para desplegar desde GitHub en Vercel, configura las mismas variables de `.env.example` en el panel de variables de entorno del proyecto. No subas claves reales al repositorio.
+
+## Documentacion de mantenimiento
+
+Guia principal para soporte, venta y correccion de errores:
+
+- [docs/guia-mantenimiento-y-venta.md](./docs/guia-mantenimiento-y-venta.md)
